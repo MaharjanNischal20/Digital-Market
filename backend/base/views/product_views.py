@@ -8,14 +8,11 @@ from rest_framework import status
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.contrib.auth.models import User
 import requests
-<<<<<<< HEAD
 import pickle
-=======
 from rest_framework import viewsets
 from rest_framework.filters import OrderingFilter, SearchFilter
 from django_filters.rest_framework import DjangoFilterBackend
 
->>>>>>> 8f970115364797f34fc4d9ac477f0e7293e5980f
 
 @api_view(['GET'])
 def getProducts(request):
@@ -24,11 +21,8 @@ def getProducts(request):
         query = ''
     products = Product.objects.filter(name__icontains=query)
     page = request.query_params.get('page')
-<<<<<<< HEAD
     paginator = Paginator(products,16)
-=======
     paginator = Paginator(products, 8)
->>>>>>> 8f970115364797f34fc4d9ac477f0e7293e5980f
 
     try:
         products = paginator.page(page)
@@ -172,7 +166,7 @@ def createProductReview(request, pk):
         product.save()
 
         return Response('Review Added')
-<<<<<<< HEAD
+
     
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
@@ -192,15 +186,3 @@ def recommend(request,pk):
 
     serializer = ProductSerializer(productList, many = True)
     return Response(serializer.data)
-=======
-
-
-class API(viewsets.ModelViewSet):
-    queryset = Product.objects.all()
-    serializer_class = ProductSerializer
-    filter_backends = [DjangoFilterBackend, OrderingFilter, SearchFilter]
-    # filterset_fields = ['category']
-
-    def get_queryset(self):
-        return Product.objects.order_by('?').all()[:10]
->>>>>>> 8f970115364797f34fc4d9ac477f0e7293e5980f
