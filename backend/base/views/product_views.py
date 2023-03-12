@@ -10,8 +10,7 @@ from django.contrib.auth.models import User
 import requests
 import pickle
 from rest_framework import viewsets
-from rest_framework.filters import OrderingFilter, SearchFilter
-from django_filters.rest_framework import DjangoFilterBackend
+
 
 
 @api_view(['GET'])
