@@ -164,6 +164,9 @@ function ProductScreen({ match, history }) {
                     <Card className='my-3 rounded'>
                       <Link to={`/product/${product._id}`}>
                         <Card.Img src={product.image} varient='top' width="193" height="450" />
+                        <Card.Title as='h2'>
+                          <strong>{product.name}</strong>
+                        </Card.Title>
                       </Link>
                     </Card>
                   </Col>
