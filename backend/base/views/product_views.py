@@ -8,7 +8,7 @@ from rest_framework import status
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.contrib.auth.models import User
 import requests
-import pickle
+import pickle,pandas as pd
 from rest_framework import viewsets
 
 
@@ -167,21 +167,46 @@ def createProductReview(request, pk):
         return Response('Review Added')
 
     
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+similarity = pickle.load(open('similarity9.pkl', 'rb'))
 
 
 @api_view(['GET'])
 def recommend(request,pk):
     product = Product.objects.get(_id=pk)
-    distances = similarity[product._id-1]
+
+    distances = similarity[product._id-195]
     product_list = sorted(
-        list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:9]
+        list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:5]
     productList = Product.objects.none()
     for i in product_list:
-        products = Product.objects.filter(_id=(i[0]+1))
+        products = Product.objects.filter(_id=(i[0]+195))
         print(products)
         productList |= products
     
 
     serializer = ProductSerializer(productList, many = True)
     return Response(serializer.data)
+
+@api_view(['get'])
+def resetProductDataset(request):
+    dataset = pd.read_csv('data.csv')
+
+    Product.objects.all().delete()
+
+    print(dataset.iloc[1].price)
+    for i in range(len(dataset)):
+        # print(dataset.iloc[i].Address)
+        product = Product(
+        name=dataset.iloc[i].names,
+        image= dataset.iloc[i].image,
+        brand= dataset.iloc[i].brand,
+        category= dataset.iloc[i].category,
+        description= dataset.iloc[i].description,
+        # rating= dataset.iloc[i].rating,
+        numReviews= dataset.iloc[i].numReviews,
+        price= dataset.iloc[i].price,
+        countInStock= dataset.iloc[i].countInStock,
+        
+        )
+        product.save()
+    return Response("Bus Stop are Added")

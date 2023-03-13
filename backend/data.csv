@@ -1,195 +1,195 @@
-"name","image","brand","category","description","rating","numReviews","price","countInStock","createdAt","_id","user_id"
-"Men's Shoes","green_and_black_athletic_shoes.jpg","Nike","shoes","green and black athletic shoes for MENS , nike , shoes , mens shoes , mens footwears",NULL,0,10.0,8,"2023-03-07 04:13:50.788803+05:45",1,1
-"Men's jacket","green_jacket_for_man.jpg","DEMIN","jacket","Green jacket for men, mens wears",NULL,0,10.0,10,"2023-03-07 04:20:15.807968+05:45",2,1
-"Men's Shoes","green_leateher_shoes.jpg","caliber","shoes","Green Leather shoes for men, mens footswears",NULL,0,20.0,9,"2023-03-07 04:24:33.281156+05:45",3,1
-" Alarm Clock","grey_alram_clock.jpg","fossils, watch","Clock ","Grey Alarm Clock  for sleepy peoples, Alram clock ,clock ",NULL,0,10.0,10,"2023-03-07 04:28:10.554734+05:45",4,1
-"Men's Shoes","grey_and_white_addidas_shoes.jpg","Nike","shoes","Grey and white adidas shoes for runners, mens shoes , men's footwear",NULL,0,20.0,10,"2023-03-07 04:36:14.881263+05:45",5,1
-"Men's Hoodies","grey_hoodie.jpg","Huba","hoodie","grey hoodie for men , men's wears , ",NULL,0,10.0,10,"2023-03-07 04:38:54.309867+05:45",6,1
-"Body Bag  ","grey_leather_cross_body_bag.jpg","timberland","Bag ","Grey Leather Cross Body Bag for ladies, women's Bag ,Bag",NULL,0,20.0,10,"2023-03-07 04:42:29.741624+05:45",7,1
-"Men's Shoes","grey_running_shoes.jpg","Nike","shoes","Grey Running Shoes for Runners, men's shoes, mens footwear",4.0,1,10.0,10,"2023-03-07 04:44:25.495349+05:45",8,1
-"Hand Bracelet","hand_braclets.jpg","fossils","bracelet","Hand Brasclet for both men's and Women's ",NULL,0,10.0,10,"2023-03-07 04:46:03.409871+05:45",9,1
-"Handbag ","handbag_for_ladies.jpg","timberland","Bag","Handbag for Women, women's bag , ",NULL,0,10.0,10,"2023-03-07 04:48:33.627464+05:45",10,1
-" Women's Footwears","leopard_print_umbrella_heels.jpg","timberland","shoes","leopard print umbrella Heels, shoes women's footwears , heels",NULL,0,10.0,10,"2023-03-07 04:51:15.425643+05:45",11,1
-"Mouse","logictech_wireless_mouse.jpg","Logitech","mouse ","Logitech wireless mouse, electronics, mouse ",NULL,0,10.0,10,"2023-03-07 04:53:31.753511+05:45",12,1
-"MacBook pro ","macbook_pro.jpg","Apple","Laptop","MacBook pro, laptop , electronics",NULL,0,15.0,10,"2023-03-07 04:55:10.55865+05:45",13,1
-"Wired Headphone","meizu_coedless_wired_headphone.jpg","Meizu","electronics","Meizu codeless wired headphone, headphone ,electronics",NULL,0,9.0,7,"2023-03-07 04:57:46.800638+05:45",14,1
-"Men's Shoes","nike_air_force_1.jpg","Nike","shoes","Nike Air Force 1 ,men's footwears, shoes",NULL,0,10.0,7,"2023-03-07 05:00:00.290301+05:45",15,1
-"Men's Shoes","nike_high_top_shoes.jpg","Nike","shoes","Nike High Top Shoes for men , men's footsware, shoes",NULL,0,10.0,10,"2023-03-07 05:01:35.761993+05:45",16,1
-"DSLR Camera","nikon_dslr_camera.jpg","Nikon","camera","Nikon DSLR camera, camera ",NULL,0,8.0,10,"2023-03-07 05:03:15.666692+05:45",17,1
-"Men's Shoes","off_white_nike_air_force_1.jpg","Nike","shoes","OFF White Nike Air Force 1, men's foots wears, shoes",4.0,1,50.0,10,"2023-03-07 05:11:15.474238+05:45",18,1
-"Men's Shoes","orange_an_white_nike_air_huarache_D8Oi2qP.jpg","Nike","shoes","Orange an White Nike Air Huarache for men , men's wears , men's footwears",NULL,0,11.0,10,"2023-03-07 05:15:40.814701+05:45",20,1
-"Men's jacket","orange_button_up_jacket_for_men.jpg","jacket","jacket","Orange Button up Jacket for men, men's wears, jackets",NULL,0,11.0,8,"2023-03-07 05:17:00.757429+05:45",21,1
-"Hoodie","pink_hoodie.jpg","Huba","hoodie","Pink Hoodie for both men and women ,men's wear , women's wear hoodie",NULL,0,9.0,11,"2023-03-07 05:21:35.972266+05:45",23,1
-"Shoes","pink_white_air_max_90.jpg","Nike","shoes","Pink White Air max 90 for both men and women ,shoes, footwears",NULL,0,11.0,10,"2023-03-07 05:23:07.271226+05:45",24,1
-"T-shirt ","plane_white_tshirt.jpg","Huba","T-shirt","Plane White t-shirt for men ,mens wears , t-shirts",NULL,0,5.0,5,"2023-03-07 05:25:11.058522+05:45",25,1
-"Pocket Watch","pocket_watch.jpg","fossils, watch","Clock ","Pocket Watch , watch",NULL,0,10.0,10,"2023-03-07 05:27:06.472615+05:45",26,1
-"Red I-phone 7","red_iphone_7.jpg","I-phone","phone ","Red I-phone 7 , apple , electronics",NULL,0,45.0,10,"2023-03-07 05:29:14.345026+05:45",27,1
-"Hand Bag","red_leather_hand_bag.jpg","timberland","Bag","Red leather Hand Bag for Women, women's wears",5.0,1,10.0,11,"2023-03-07 05:31:38.595041+05:45",28,1
-"Headphone","red_wired_headphone.jpg","Boat","Headphones","Red Wired Headphone for music lover , music , Electronics",NULL,0,8.0,13,"2023-03-07 05:33:32.739492+05:45",29,1
-"Wall Clock","round_black_and_white_wall_clock.jpg","fossils","Clock ","Round Black and White Wall Clock, clock ",NULL,0,8.0,10,"2023-03-07 05:35:57.490496+05:45",30,1
-"Wall Clock","round_grey_wall_clock.jpg","fossils, watch","Clock ","Round Grey Wall Clock ,watch",NULL,0,9.0,8,"2023-03-07 05:40:17.286698+05:45",32,1
-"Women's watch","round_silver_color_analog_watch.jpg","fossils, watch","watch","Round Silver Color Analog Watch for women ,womens watch ,watch ",NULL,0,10.0,10,"2023-03-07 05:41:55.744783+05:45",33,1
-"Men's Watch","round_silver_watch_with_brown_band.jpg","fossils, watch","watch","Round Silver Watch with Brown Band, analog watch ",NULL,0,11.0,10,"2023-03-07 05:46:43.200348+05:45",34,1
-"Men's Watch","round_silver_watch_with_pink_band.jpg","fossils, watch","watch","Round Silver watch with pink band, watch ,analog watch ",NULL,0,8.0,3,"2023-03-07 05:48:19.414472+05:45",35,1
-"Men's Watch","round_silvr_watch_with_black_strap.jpg","fossils","watch","Round silver watch with black strap, watch",4.0,1,13.0,10,"2023-03-07 05:53:00.147349+05:45",36,1
-"Watch","round_white_watch_with_white_band.jpg","fossils, watch","watch","Round white watch with white band, watch",NULL,0,9.0,8,"2023-03-07 05:56:47.508282+05:45",37,1
-"Watch","silver_aluminium_case_apple_watch.jpg","Apple","watch","Silver Aluminum case apple watch, Apple, Watch",NULL,0,10.0,4,"2023-03-07 05:59:10.943829+05:45",38,1
-"Men's Watch","silver_colored_analog_watch.jpg","fossils, watch","watch","Silver Colored Analog Watch for men, mens watch ",NULL,0,7.0,10,"2023-03-07 06:05:30.53822+05:45",40,1
-"Men's Watch","silver_gold_watch.jpg","fossils, watch","watch","silver gold watch for men, mens wears , analog watch",NULL,0,10.0,10,"2023-03-07 06:07:30.359647+05:45",41,1
-"Men's Watch","silver_watch.jpg","fossils, watch","watch","silver watch for men , analog watch , mens watch",NULL,0,10.0,6,"2023-03-07 06:09:00.817382+05:45",42,1
-"Men's Watch","silver_watch_analog.jpg","fossils, watch","watch","Silver Watch Analog for men, analog watch",NULL,0,8.0,8,"2023-03-07 06:11:23.935293+05:45",43,1
-"Headphone ","sony_black_headphone.jpg"," Sony","Headphones","Sony Black Headphone for music lover , electronics , headphone",NULL,0,6.0,8,"2023-03-07 06:13:34.15502+05:45",44,1
-" Headphone ","sony_wireless_headphone.jpg","Sony","Headphones","Sony wireless Headphone for music lover , electronics ,headphone",NULL,0,11.0,2,"2023-03-07 06:23:46.585753+05:45",45,1
-"Men's Shoes","white_adidas_low_top_sneaker.jpg","Addidas","shoes","White Adidas Low Top Sneaker for men , shoes , mens shoes, mens footwears",NULL,0,15.0,5,"2023-03-07 06:27:33.72409+05:45",46,1
-"Men's Shoes","white_and_black_nike_air_max_90.jpg","Nike","shoes","White and Black Nike Air max 90 for men, nike , mens shoes , mens footwears, shoes",NULL,0,22.0,5,"2023-03-07 08:17:02.985597+05:45",47,1
-"Ceramic Vase","white_and_blue_ceramic_vase.jpg","No Brand ","clay","White and Blue Ceramic Vase for Interior Design of Room, ceramic pot , pot",NULL,0,5.0,8,"2023-03-07 08:18:50.844877+05:45",48,1
-"Cup ","white_and_brown_cup.jpg","pot","clay","White and Brown Cup for Interior Design of Room, ceramic pot ",NULL,0,5.0,6,"2023-03-07 08:21:29.411465+05:45",49,1
-"Men's Shoes","white_and_orange_athletic_shoes.jpg","Nike","shoes","White and Orange Athletic Shoes for MEN, mens shoes , mens footwears",NULL,0,13.0,5,"2023-03-07 08:22:53.51972+05:45",50,1
-"Men's Shoes","white_and_red_athletic_nike_shoes.jpg","Nike","shoes","White and Red Athletic Nike Shoes for MEN, mens shoes , mens footwears",NULL,0,7.0,3,"2023-03-07 08:25:39.964793+05:45",51,1
-"Earphone","white_earphone.jpg","Boat","electronics","White Earphone for Music Lovers, earphone , electronics",NULL,0,6.0,3,"2023-03-07 08:27:05.850814+05:45",52,1
-"Hoodie and Paint ","white_hoodie_and_paint_set.jpg","Huba","clothes","White Hoodie and Paint Set for MEN, paint , hoodies, mens wears , ",NULL,0,25.0,4,"2023-03-07 08:30:07.825936+05:45",54,1
-"T-shirt","white_long_sleeves_tshirt.jpg","Huba","clothes","White Long Sleeves t-shirt for MEN, t-shirt , mens wears",NULL,0,10.0,6,"2023-03-07 08:38:22.4157+05:45",55,1
-"Alarm Clock","white_mini_bell_alram_clock.jpg","fossils","Clock ","White mini Bell Alarm Clock for Sleepy Heads, alram clock , clock",NULL,0,6.0,6,"2023-03-07 08:40:01.784552+05:45",56,1
-"Men's Shoes","white_nike_running_shoes.jpg","Nike","shoes","White Nike Running Shoe for MEN, mens shoes ,mens footwears,",NULL,0,8.0,5,"2023-03-07 08:41:38.676487+05:45",57,1
-"PS-4 Console","white_ps4_console.jpg","Logitech","electronics","White PS-4 Console for Gamers,electronics, gagets",NULL,0,5.0,6,"2023-03-07 08:43:07.997077+05:45",58,1
-"Hoodie","white_pull_over_hoodie.jpg","Huba","hoodie","White Pull Over Hoodie for MEN, hoodie, mens wears",NULL,0,6.0,7,"2023-03-07 08:44:42.095612+05:45",59,1
-"Wall Clock","white_wall_clock.jpg","fossils","Clock ","White Wall Clock for interior design of house, clock ",NULL,0,5.0,5,"2023-03-07 08:46:15.957427+05:45",60,1
-"Headphones","wired_black_gaming_headphones.jpg","Logitech","electronics","Wired Black Gaming Headphones for Gamers out Here,electronics, gagets, headphone",NULL,0,17.0,8,"2023-03-07 08:47:54.442695+05:45",61,1
-"Headphone","wired_silver_and_brown_headphone.jpg","Boat","electronics","Wired Silver and Brown Headphone for music lovers,headphones ,electronics",NULL,0,7.0,5,"2023-03-07 08:49:45.612455+05:45",62,1
-"Headphone","wireless_headphone.jpg","Boat","electronics","Wireless Bluetooth  Headphone ,electronics, headphones",NULL,0,5.0,5,"2023-03-07 08:51:13.669338+05:45",63,1
-"Women's shoes","women_brown_leather_peep_toe_heeled_shoes.jpg","caliber","shoes"," Brown Leather peep Toe Heeled Shoes for WOMEN, womens footwear , shoes",NULL,0,23.0,4,"2023-03-07 08:52:40.65257+05:45",64,1
-"Women's shoes","women_white_and_silver_peep_toe_pumps.jpg","No Brand ","Sample Category"," White and Silver peep toe Pumps for women , womens footwears",NULL,0,4.0,5,"2023-03-07 08:54:29.784242+05:45",65,1
-"Digital Clock","wooden_brown_digital_clock.jpg","fossils, watch","watch","Wooden Brown Digital Clock for sleepy head, digital clock ",NULL,0,5.0,7,"2023-03-07 08:56:35.476266+05:45",66,1
-"Hoodie","yellow_hoodie.jpg","No Brand ","hoodie","Yellow Hoodie for MEN, hoodie , mens wears",NULL,0,10.0,5,"2023-03-07 08:59:02.024775+05:45",67,1
-"Clock","yellow_mini_alram_clock.jpg","Boat","electronics","Yellow Mini Alarm Clock, clock , electronics ",NULL,0,8.0,6,"2023-03-07 09:04:21.133464+05:45",68,1
-"Hoodie","yellow_pullover_hoodie.jpg","Huba","hoodie","Yellow Pullover Hoodie for MEN, hoodie , mens wears ",NULL,0,10.0,7,"2023-03-07 09:06:13.025567+05:45",69,1
-"Men's Shoes","yellow_vans_shoes.jpg","vans","shoes","Yellow Vans Shoes for for MEN and WOMEN, shoes , mens footwears , womens footwears",NULL,0,8.0,3,"2023-03-07 09:08:25.644737+05:45",70,1
-"Men's Watch","analog_black_watch.jpg","fossils, watch","watch","Analog Black Watch for Classic Men, watch , mens watch ",NULL,0,6.0,5,"2023-03-07 09:09:59.094239+05:45",71,1
-"Apple Watch","apple_watch.jpg","Apple","watch","Unisex Apple Smart Watch, apple , watch ",NULL,0,7.0,10,"2023-03-07 09:14:19.050592+05:45",72,1
-"Alarm Clock","black_alram_clock.jpg","fossils, watch","Clock ","Black Alarm Clock for Sleepy Head, alram clock",NULL,0,8.0,5,"2023-03-07 09:16:03.370098+05:45",73,1
-"Digital Clock","black_and_brown_digital_clock.jpg","fossils","Clock ","Black and Brown wooden color Digital Clock , clock ,alram clock",NULL,0,10.0,12,"2023-03-07 09:17:17.487075+05:45",74,1
-"Digital Clock","black_and_silver_digital_clock.jpg","Casio","watch","Black and Silver Digital Clock for Interior Design, clock ,digital clock ",NULL,0,10.0,5,"2023-03-07 09:19:25.248868+05:45",75,1
-"DSLR Camera","black_cannon_dslr_camera.jpg","canon","camera","Black Color Cannon DSLR Camera for Photography, camera ",NULL,0,5.0,6,"2023-03-07 09:21:32.533024+05:45",76,1
-"Men's Shoes","black_converse_shoes.jpg","converse","shoes","Black Converse Shoes for both MEN and WOMEN, shoes , mens wears , womens wears",NULL,0,7.0,5,"2023-03-07 09:23:14.729377+05:45",77,1
-"Sunglasses","black_frame_eyeglasses_Apybuq3.jpg","newmew","sunglasses","Black Frame UV-ray Protection  Eyeglasses ,sunglasses",NULL,0,6.0,5,"2023-03-07 09:24:30.277356+05:45",78,1
-"Hoodie ","black_hoodie_with_white_print.jpg","Huba","hoodie","Black Hoodie Having  White Print in Sleeves, hoodie ,mens wears",NULL,0,5.0,5,"2023-03-07 09:27:16.498702+05:45",79,1
-"Leather Bag","black_leather_bag.jpg","Rhino Leathers","Bag","Black Leather handcarry Bag, bag ,casual",NULL,0,5.0,9,"2023-03-07 09:28:59.879506+05:45",80,1
-"Women's shoes","black_leather_boots_for_women.jpg","timberland","shoes","Black Leather Boots for Women for Winter, boots , shoes , womens shoes ",NULL,0,4.0,5,"2023-03-07 09:31:32.624932+05:45",81,1
-"women's jackets","black_leather_jacket_for_women.jpg","Rhino Leathers","jacket","Black Leather Jacket for Women , jackets womens wears",NULL,0,8.0,5,"2023-03-07 09:33:00.935865+05:45",82,1
-"Men's jacket","black_leather_zip_up_jacket.jpg","Rhino Leathers","jacket","Black Leather Zip up Jacket for MEN, jacket , mens wears ",5.0,1,7.0,7,"2023-03-07 10:18:05.969272+05:45",83,1
-"Men's jacket","black_zip_up_jackets.jpg","Rhino Leathers","jacket","Black Zip up Jackets for MEN, mens wears , jackets",NULL,0,7.0,5,"2023-03-07 10:19:37.748042+05:45",84,1
-"Men's Watch","blacks_analog_watch.jpg","Casio","watch","Blacks Analog Watch for classic MEN, casio , mens watch , watch ,classic mens wears",NULL,0,7.0,4,"2023-03-07 10:21:46.98518+05:45",85,1
-"Jacket","blue_danim_jacket.jpg","DEMIN","jacket","Blue Denim Jacket for MEN, jackets , mens wears",NULL,0,4.0,2,"2023-03-07 10:23:07.27089+05:45",86,1
-"Men's Shoes","brown_and_white_nike_air_max.jpg","Nike","shoes","Brown and White Nike Air Max for MEN, shoes , mens footwears, nike",NULL,0,7.0,5,"2023-03-07 10:24:54.469085+05:45",87,1
-"Leather Bag","brown_hang_carry_leather_bag.jpg","Rhino Leathers","Bag","Brown Carry Leather Bag for classic MEN, bag , leather bag , classic mens",NULL,0,7.0,5,"2023-03-07 10:29:17.404891+05:45",88,1
-"Men's Shoes","black_white_red_high_top_sneeker.jpg","Nike","shoes","Black White Red High Top Sneekers, shoes ,sneekers ,nike",NULL,0,7.0,5,"2023-03-07 10:32:10.306655+05:45",89,1
-"Hoodie","brown_hoodie.jpg","Huba","hoodie","Brown Hoodie for MEN, hoodie, mens wears ,huba",NULL,0,7.0,6,"2023-03-07 10:34:49.806792+05:45",90,1
-"Men's jacket","brown_jacket.jpg","Rhino Leathers","jacket","Brown Jacket for MEN, rhino leathers , jackets , mens wears ",NULL,0,5.0,4,"2023-03-07 10:36:27.978926+05:45",91,1
-"Men's Jeans","black_jeans_for_men.jpg","Poison Jeans","paints","Black Jeans for MEN, jeans, denim, mens wears ,pant",NULL,0,10.0,-2,"2023-03-10 11:18:21.649409+05:45",93,1
-"Ceramic Bowl","ceramic_bowl.jpg","No Brand ","ceramic","Ceramic Bowl for home decorations",NULL,0,9.0,5,"2023-03-12 14:00:07.071046+05:45",95,1
-"Rose Artificial Plant ","vase.jpeg","pot","ceramic","Bengal Blooms Rose Artificial Plant  with Pot",NULL,0,8.0,7,"2023-03-12 20:55:49.406073+05:45",98,1
-"Cargo Paint","cargo_paints.jpeg","paint","paints","Madcaps C38GR30 Men's Cargos",NULL,0,8.0,7,"2023-03-12 21:14:47.494996+05:45",99,1
-"Dumbell for pet","dumbel.jpeg","dumbell","workout","Kennel Rubber Dum-bell With Bell - Small Rubber Rubber Toy For Dog	",NULL,0,6.0,5,"2023-03-12 21:17:44.196748+05:45",100,1
-"Shorts","legis.jpeg","fit","workout","Solid Women's Cycling Shorts",NULL,0,6.0,5,"2023-03-12 21:24:45.93465+05:45",101,1
-"Sofa","sofa.jpeg","sofas","furniture","Fab Home Decor Fabric Double Sofa Bed",NULL,0,10.0,5,"2023-03-12 21:29:30.085946+05:45",102,1
-"Women jutti","shoess.jpeg","timberland","shoes"," Women's Footwear ,AW Bellies",NULL,0,4.0,5,"2023-03-12 21:34:02.6283+05:45",103,1
-"Women juttii","shoesss.jpeg","timberland","shoes","Casuals Women's Footwear, Ballerinas",NULL,0,4.0,5,"2023-03-12 21:38:58.105293+05:45",104,1
-"Women juttiii","shoe.jpeg","timberland","shoes","Ladela Bellies ,Women's Footwear,Casual",NULL,0,6.0,6,"2023-03-12 21:41:40.170243+05:45",105,1
-"Men's Watch","watch.avif","fossils","watch","Black and Silver Chorograph watch ,men's wears ",NULL,0,6.0,5,"2023-03-12 21:48:27.278817+05:45",106,1
-"Men's Watch","fossil_watch_with_black_band.jpg","fossils","watch","fossils watch black band, men's wear, casual wears",NULL,0,5.0,6,"2023-03-12 21:51:53.2564+05:45",107,1
-"Sunglasses","brown_sunglasses.jpg","newmew","sunglasses","women's  sunglasses, Brown sunglasses, women's wears",NULL,0,7.0,6,"2023-03-12 21:53:29.026852+05:45",108,1
-"Leather shoes","brown_leather_loafers_shoes.jpg","caliber","shoes","Brown Leathers lofar shoes ,mens wear",NULL,0,5.0,5,"2023-03-12 21:55:11.955809+05:45",109,1
-"Men's Shoes","brown_leathers_shoes.jpg","caliber","shoes","Caliber brown leather boots , mens wears, shoes ",NULL,0,7.0,5,"2023-03-12 21:56:49.17163+05:45",110,1
-"Nike Shoes","brown_nike_sneakers.jpg","Nike","shoes","Brown Nike sneakers , men's footwears ",NULL,0,6.0,6,"2023-03-12 21:58:09.478543+05:45",111,1
-"Ceramic Pot","ceramic_vase.jpg","pot","ceramic pot","White Ceramic Pot , Home Decor",NULL,0,5.0,5,"2023-03-12 21:59:28.813097+05:45",112,1
-"Sunglasses","gold_framed_sunglasses.jpg","newmew","sunglasses","Gold Framed Sunglasses , sunglasses ",NULL,0,5.0,5,"2023-03-12 22:01:38.512686+05:45",113,1
-"Men's Watch","fossil_analog_watch.jpg","fossils","watch","Fossils analog watch with brown band , mens wears",NULL,0,5.0,5,"2023-03-12 22:03:10.431325+05:45",114,1
-"Nike Shoes","blue_black_white_nike_running_shoes.jpg","Nike","shoes","Blue and white Nike shoes, mens running shoes,mens wears",NULL,0,5.0,5,"2023-03-12 22:04:24.946118+05:45",115,1
-"Men's Watch","analog_black_watch_JMVd8fO.jpg","fossils","watch","Fossils analog watch  , men's wears, watch",NULL,0,7.0,5,"2023-03-12 22:05:43.132915+05:45",116,1
-"Men's Watch","gold_and_blue_analog_watch.jpg","fossils, watch","watch","Golden Blue analog watch , men's watch, watch",NULL,0,5.0,9,"2023-03-12 22:06:57.840748+05:45",117,1
-"Men's Watch","round_grey_analog_watch_with_brown_band_qnqUWVM.jpg","fossils, watch","watch","Silver analog clock with brown band, mens watch ,mens wears",NULL,0,7.0,5,"2023-03-12 22:08:23.834623+05:45",118,1
-"Men's Watch","silver_gold_watch_vhgsVoV.jpg","fossils","watch","Silver and Gold analog watch, mens watch , mens wears",NULL,0,5.0,3,"2023-03-12 22:11:07.164415+05:45",119,1
-"Men's Watch","silver_watch_analog_AUUGKj3.jpg","fossils, watch","watch","Silver analog watch, mens watch , mens wears",NULL,0,8.0,5,"2023-03-12 22:12:29.039494+05:45",120,1
-"Earpode","black_earbode.jpg","Boat","Headphones","Black wireless Earpod , headphone , electronics",NULL,0,8.0,7,"2023-03-13 08:32:53.436286+05:45",121,1
-"Mobile Phone","black_samsung_galaxy_s6_edge.jpg","samsung","electronics","Samsung Galaxy s8 phone , phone , mobile,electronics ,gagets ",NULL,0,4.0,7,"2023-03-13 08:34:36.663919+05:45",122,1
-"Clock","black_and_brown_digital_clock_chB99dd.jpg","fossils","Clock ","wooden framed digital clock , clock , alram clock ",NULL,0,6.0,5,"2023-03-13 08:36:08.634471+05:45",123,1
-"Men's Watch","golden_analog_watch_with_black_band.jpg","fossils, watch","watch","Analog watch with black band, watch , men's watch",NULL,0,5.0,5,"2023-03-13 08:37:19.735104+05:45",124,1
-"Women's shoes","glitter_white_pointed_toe_pumps.jpg","caliber","shoes","Women's heels , silver glitter color , women's wears , heels , shoes ",NULL,0,7.0,6,"2023-03-13 08:38:54.309307+05:45",125,1
-"Men's Watch","round_grey_analog_watch_with_brown_band_P8jcNoR.jpg","fossils, watch","watch","analog watch , men's watch , ",NULL,0,7.0,5,"2023-03-13 08:40:20.032203+05:45",126,1
-"Clock","yellow_mini_alram_clock_sf9Drd6.jpg","fossils","watch","Mini alram clock for sleepy head  , clock  ",NULL,0,6.0,7,"2023-03-13 08:41:54.89605+05:45",127,1
-"Women's Shirt","s1.jpg","New Season","Men's Shirt","Women's shirt , Women's wears, white shirts , new season",NULL,0,2.0,5,"2023-03-13 08:43:57.387339+05:45",128,1
-"Men's Shirt","s2.jpg","New Season","Men's Shirt","Men's shirt , black shirt , new season shirt , men's wears, men's shirts",NULL,0,5.0,5,"2023-03-13 08:56:26.000195+05:45",129,1
-"Men's Shirt","s3.jpg","New Season","Men's Shirt","men's shirt , blue shirt , new season shirt , men's wears ",NULL,0,6.0,2,"2023-03-13 08:58:09.060134+05:45",130,1
-"Men's Shirt","s4.jpg","New Season","Men's Shirt","men's shirt , white shirts  , men's wears  ,new season shirts",NULL,0,3.0,5,"2023-03-13 08:59:37.795446+05:45",131,1
-"Men's Shirt","s5.jpg","New Season","Men's Shirt","men's shirts,  new season shirt , men's wears, shirt",NULL,0,4.0,6,"2023-03-13 09:03:23.712795+05:45",132,1
-"Men's Shirt","s6.jpg","New Season","Men's Shirt","men's shirt , shirt with tie , news season shirts , men's wears , shirts",NULL,0,5.0,5,"2023-03-13 09:05:28.497476+05:45",133,1
-"Men's Shirt","s7.jpg","New Season","Men's Shirt","men's  wears , shirt , new season shirt ,",NULL,0,8.0,6,"2023-03-13 09:07:30.329861+05:45",134,1
-"Men's Shirt","s8.jpg","New Season","Men's Shirt","men's shirts, shirts , new season shirt , men's wears",NULL,0,6.0,6,"2023-03-13 09:09:20.65855+05:45",135,1
-"Men's Shirt","s9.jpg","New Season","Men's Shirt","men's shirt, new season shirt, men's wears, shirts",NULL,0,6.0,8,"2023-03-13 09:10:41.903694+05:45",136,1
-"Men's Shirt","s10.jpg","New Season","Men's Shirt","Men's shirt ,shirt , new season shirts , men's wears",NULL,0,4.0,5,"2023-03-13 09:12:20.210796+05:45",137,1
-"Men's Shirt","s11.jpg","New Season","Men's Shirt","Men's shirt , men's wears , shirt , new season shirts",NULL,0,4.0,4,"2023-03-13 09:13:37.812012+05:45",138,1
-"Men's Shirt","s12.jpg","New Season","Men's Shirt","shirt, men's shirt  , new season's shirts, men's wears",NULL,0,5.0,5,"2023-03-13 09:15:00.255986+05:45",139,1
-"Men's Shirt","s13.jpg","New Season","Men's Shirt","shirt, men's shirt  , new season's shirts,  men's wears",NULL,0,6.0,5,"2023-03-13 09:16:46.992988+05:45",140,1
-"Men's Watch","w14_1.jpg","fossils, watch","watch","men's watch , fossils watch , watch ",NULL,0,4.0,5,"2023-03-13 09:17:48.092748+05:45",141,1
-"Shades","shades1.jpg","newmew","sunglasses","shades, sunglasses ,  eyewear, UV-ray protection, fashion, luxury",NULL,0,5.0,3,"2023-03-13 10:24:19.956632+05:45",142,1
-"Shades","shades2.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.0,6,"2023-03-13 10:28:09.498892+05:45",143,1
-"Shades","shades3.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,4.0,5,"2023-03-13 10:29:13.377112+05:45",144,1
-"Shades","shades9.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.0,5,"2023-03-13 10:29:59.069369+05:45",145,1
-"Shades","shades5.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.0,3,"2023-03-13 10:30:44.419182+05:45",146,1
-"Shades","shades9_nrWEBYE.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,4.0,4,"2023-03-13 10:31:27.664247+05:45",147,1
-"Shades","shades14.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.0,4,"2023-03-13 10:32:19.20992+05:45",148,1
-"Shades","shades16.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.0,5,"2023-03-13 10:33:10.039722+05:45",149,1
-"Shades","shades21.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.0,5,"2023-03-13 10:33:50.325068+05:45",150,1
-"Shades","shades16_IaYTR6R.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,2.0,6,"2023-03-13 10:34:29.201334+05:45",151,1
-"Shades","shades20.jpg","New Season","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.0,5,"2023-03-13 10:35:11.414593+05:45",152,1
-"Shades","shades23.jpg","newmew","sunglasses","shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.0,3,"2023-03-13 10:35:54.691769+05:45",153,1
-"Men's Watch","w14_7.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.0,5,"2023-03-13 10:36:48.558062+05:45",154,1
-"Men's Watch","w14_18.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,4.0,2,"2023-03-13 10:37:44.968184+05:45",155,1
-"Men's Watch","w14_14.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.0,2,"2023-03-13 10:38:41.226878+05:45",156,1
-"Men's Watch","w14_14_XNp8KbT.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.0,2,"2023-03-13 10:39:29.563304+05:45",157,1
-"Men's Watch","w14_17.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,2.0,5,"2023-03-13 10:40:16.051788+05:45",158,1
-"Men's Watch","w14_12.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.0,5,"2023-03-13 10:41:02.738222+05:45",159,1
-"Men's Watch","w14_16.jpg","fossils, watch","watch","wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.0,5,"2023-03-13 10:41:58.618604+05:45",160,1
-"Cap","c1.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,5.0,3,"2023-03-13 10:50:19.266961+05:45",161,1
-"Cap","c2.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,5.0,5,"2023-03-13 10:51:53.14819+05:45",162,1
-"Cap","c3.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,6.0,6,"2023-03-13 10:52:36.875352+05:45",163,1
-"Cap","c4.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,5.0,6,"2023-03-13 10:53:17.807063+05:45",164,1
-"Cap","c5.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,6.0,5,"2023-03-13 10:54:05.816843+05:45",165,1
-"Cap","c6.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,3.0,3,"2023-03-13 10:54:43.613409+05:45",166,1
-"Cap","c3_wmVJSum.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.0,4,"2023-03-13 10:55:24.873149+05:45",167,1
-"Cap","c6_Cl6lbcz.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.0,5,"2023-03-13 10:56:11.083265+05:45",168,1
-"Cap","c7.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.0,2,"2023-03-13 10:56:48.260874+05:45",169,1
-"Cap","c8.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.0,3,"2023-03-13 10:57:41.515194+05:45",170,1
-"Cap","c9.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.0,4,"2023-03-13 10:58:15.744498+05:45",171,1
-"Cap","c10.jpg","flexfit","Headwear","Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.0,2,"2023-03-13 10:58:52.443169+05:45",172,1
-"Jewelry","a1.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.0,5,"2023-03-13 11:02:55.546076+05:45",173,1
-"Jewelry","a2.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,13.0,5,"2023-03-13 11:13:31.996138+05:45",174,1
-"Jewelry","a3.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,14.0,5,"2023-03-13 11:14:07.17356+05:45",175,1
-"Jewelry","a4.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.0,5,"2023-03-13 11:14:40.059625+05:45",176,1
-"Jewelry","a5.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.0,5,"2023-03-13 11:15:11.749561+05:45",177,1
-"Jewelry","a6.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,5.0,5,"2023-03-13 11:15:45.442552+05:45",178,1
-"Jewelry","a8.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.0,4,"2023-03-13 11:16:15.181925+05:45",179,1
-"Jewelry","a9.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,3.0,4,"2023-03-13 11:16:55.806024+05:45",180,1
-"Jewelry","a10.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,6.0,3,"2023-03-13 11:18:37.034685+05:45",181,1
-"Jewelry","a11.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,9.0,4,"2023-03-13 11:19:10.320852+05:45",182,1
-"Jewelry","a12.jpg","Harry Winston","accessories","Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,7.0,6,"2023-03-13 11:19:45.943665+05:45",183,1
-"I-phone 6","aa1_iphone6.jpg","Apple","smartphones","smartphone, apple, i-phone, electronics",NULL,0,6.0,6,"2023-03-13 11:29:06.598692+05:45",184,1
-"I-phone x","aa2_iphone_x.jpg","Apple","smartphones","smartphone, apple, i-phone, electronics",NULL,0,8.0,4,"2023-03-13 11:31:55.736596+05:45",185,1
-"I-phone 5","aa3_iphone5.jpg","Apple","smartphones","smartphone, apple, i-phone, electronics",NULL,0,5.0,7,"2023-03-13 11:32:40.260092+05:45",186,1
-"I-phone x's","aa4_iphone_xs.jpg","Apple","smartphones","smartphone, apple, i-phone, electronics",NULL,0,12.0,6,"2023-03-13 11:33:27.254359+05:45",187,1
-"I-phone 11","aa5_iphone_11.jpg","Apple","smartphones","smartphone, apple, i-phone, electronics",NULL,0,5.0,6,"2023-03-13 11:34:15.097286+05:45",188,1
-"Motorcycle's Helmet","l1.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,7.0,6,"2023-03-13 11:41:16.992195+05:45",189,1
-"Motorcycle's Helmet","l2.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,4.0,3,"2023-03-13 11:42:40.47139+05:45",190,1
-"Motorcycle's Helmet","l3.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,4.0,5,"2023-03-13 11:43:30.44475+05:45",191,1
-"Motorcycle's Helmet","l4.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,3.0,1,"2023-03-13 11:44:11.323798+05:45",192,1
-"Motorcycle's Helmet","l5.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,3.0,4,"2023-03-13 11:44:46.839001+05:45",193,1
-"Motorcycle's Helmet","l6.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,3.0,4,"2023-03-13 11:45:23.01163+05:45",194,1
-"Motorcycle's Helmet","l7.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,2.0,4,"2023-03-13 11:46:06.343965+05:45",195,1
-"Motorcycle's Helmet","l8.jpg","LS2","Motorcycle parts","Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,5.0,5,"2023-03-13 11:46:49.189015+05:45",196,1
-"winter Hat's","h1.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,6.0,4,"2023-03-13 11:52:56.370504+05:45",197,1
-"winter Hat's","h2.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,5.0,6,"2023-03-13 11:54:11.860609+05:45",198,1
-"winter Hat's","h3.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,3.0,5,"2023-03-13 11:55:19.655997+05:45",199,1
-"winter Hat's","h4.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,4.0,5,"2023-03-13 11:56:31.427669+05:45",200,1
-"winter Hat's","h5.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,5.0,5,"2023-03-13 11:57:15.906192+05:45",201,1
-"winter Hat's","h6.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,5.0,5,"2023-03-13 11:58:33.480708+05:45",202,1
-"winter Hat's","h3_55Eny8M.jpg","Huba","winter accessories","Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,2.0,5,"2023-03-13 11:59:21.273763+05:45",203,1
+names,image,brand,category,description,rating,numReviews,price,countInStock,createdAt,_id,user_id
+Men's Shoes,green_and_black_athletic_shoes.jpg,Nike,shoes,"green and black athletic shoes for MENS , nike , shoes , mens shoes , mens footwears",NULL,0,10.00,8,2023-03-07 04:13:50.788803+05:45,1,1
+Men's jacket,green_jacket_for_man.jpg,DEMIN,jacket,"Green jacket for men, mens wears",NULL,0,10.00,10,2023-03-07 04:20:15.807968+05:45,2,1
+Men's Shoes,green_leateher_shoes.jpg,caliber,shoes,"Green Leather shoes for men, mens footswears",NULL,0,20.00,9,2023-03-07 04:24:33.281156+05:45,3,1
+ Alarm Clock,grey_alram_clock.jpg,"fossils, watch",Clock ,"Grey Alarm Clock  for sleepy peoples, Alram clock ,clock ",NULL,0,10.00,10,2023-03-07 04:28:10.554734+05:45,4,1
+Men's Shoes,grey_and_white_addidas_shoes.jpg,Nike,shoes,"Grey and white adidas shoes for runners, mens shoes , men's footwear",NULL,0,20.00,10,2023-03-07 04:36:14.881263+05:45,5,1
+Men's Hoodies,grey_hoodie.jpg,Huba,hoodie,"grey hoodie for men , men's wears , ",NULL,0,10.00,10,2023-03-07 04:38:54.309867+05:45,6,1
+Body Bag  ,grey_leather_cross_body_bag.jpg,timberland,Bag ,"Grey Leather Cross Body Bag for ladies, women's Bag ,Bag",NULL,0,20.00,10,2023-03-07 04:42:29.741624+05:45,7,1
+Men's Shoes,grey_running_shoes.jpg,Nike,shoes,"Grey Running Shoes for Runners, men's shoes, mens footwear",4,1,10.00,10,2023-03-07 04:44:25.495349+05:45,8,1
+Hand Bracelet,hand_braclets.jpg,fossils,bracelet,Hand Brasclet for both men's and Women's ,NULL,0,10.00,10,2023-03-07 04:46:03.409871+05:45,9,1
+Handbag ,handbag_for_ladies.jpg,timberland,Bag,"Handbag for Women, women's bag , ",NULL,0,10.00,10,2023-03-07 04:48:33.627464+05:45,10,1
+ Women's Footwears,leopard_print_umbrella_heels.jpg,timberland,shoes,"leopard print umbrella Heels, shoes women's footwears , heels",NULL,0,10.00,10,2023-03-07 04:51:15.425643+05:45,11,1
+Mouse,logictech_wireless_mouse.jpg,Logitech,mouse ,"Logitech wireless mouse, electronics, mouse ",NULL,0,10.00,10,2023-03-07 04:53:31.753511+05:45,12,1
+MacBook pro ,macbook_pro.jpg,Apple,Laptop,"MacBook pro, laptop , electronics",NULL,0,15.00,10,2023-03-07 04:55:10.55865+05:45,13,1
+Wired Headphone,meizu_coedless_wired_headphone.jpg,Meizu,electronics,"Meizu codeless wired headphone, headphone ,electronics",NULL,0,9.00,7,2023-03-07 04:57:46.800638+05:45,14,1
+Men's Shoes,nike_air_force_1.jpg,Nike,shoes,"Nike Air Force 1 ,men's footwears, shoes",NULL,0,10.00,7,2023-03-07 05:00:00.290301+05:45,15,1
+Men's Shoes,nike_high_top_shoes.jpg,Nike,shoes,"Nike High Top Shoes for men , men's footsware, shoes",NULL,0,10.00,10,2023-03-07 05:01:35.761993+05:45,16,1
+DSLR Camera,nikon_dslr_camera.jpg,Nikon,camera,"Nikon DSLR camera, camera ",NULL,0,8.00,10,2023-03-07 05:03:15.666692+05:45,17,1
+Men's Shoes,off_white_nike_air_force_1.jpg,Nike,shoes,"OFF White Nike Air Force 1, men's foots wears, shoes",4,1,50.00,10,2023-03-07 05:11:15.474238+05:45,18,1
+Men's Shoes,orange_an_white_nike_air_huarache_D8Oi2qP.jpg,Nike,shoes,"Orange an White Nike Air Huarache for men , men's wears , men's footwears",NULL,0,11.00,10,2023-03-07 05:15:40.814701+05:45,19,1
+Men's jacket,orange_button_up_jacket_for_men.jpg,jacket,jacket,"Orange Button up Jacket for men, men's wears, jackets",NULL,0,11.00,8,2023-03-07 05:17:00.757429+05:45,20,1
+Hoodie,pink_hoodie.jpg,Huba,hoodie,"Pink Hoodie for both men and women ,men's wear , women's wear hoodie",NULL,0,9.00,11,2023-03-07 05:21:35.972266+05:45,21,1
+Shoes,pink_white_air_max_90.jpg,Nike,shoes,"Pink White Air max 90 for both men and women ,shoes, footwears",NULL,0,11.00,10,2023-03-07 05:23:07.271226+05:45,22,1
+T-shirt ,plane_white_tshirt.jpg,Huba,T-shirt,"Plane White t-shirt for men ,mens wears , t-shirts",NULL,0,5.00,5,2023-03-07 05:25:11.058522+05:45,23,1
+Pocket Watch,pocket_watch.jpg,"fossils, watch",Clock ,"Pocket Watch , watch",NULL,0,10.00,10,2023-03-07 05:27:06.472615+05:45,24,1
+Red I-phone 7,red_iphone_7.jpg,I-phone,phone ,"Red I-phone 7 , apple , electronics",NULL,0,45.00,10,2023-03-07 05:29:14.345026+05:45,25,1
+Hand Bag,red_leather_hand_bag.jpg,timberland,Bag,"Red leather Hand Bag for Women, women's wears",5,1,10.00,11,2023-03-07 05:31:38.595041+05:45,26,1
+Headphone,red_wired_headphone.jpg,Boat,Headphones,"Red Wired Headphone for music lover , music , Electronics",NULL,0,8.00,13,2023-03-07 05:33:32.739492+05:45,27,1
+Wall Clock,round_black_and_white_wall_clock.jpg,fossils,Clock ,"Round Black and White Wall Clock, clock ",NULL,0,8.00,10,2023-03-07 05:35:57.490496+05:45,28,1
+Wall Clock,round_grey_wall_clock.jpg,"fossils, watch",Clock ,"Round Grey Wall Clock ,watch",NULL,0,9.00,8,2023-03-07 05:40:17.286698+05:45,29,1
+Women's watch,round_silver_color_analog_watch.jpg,"fossils, watch",watch,"Round Silver Color Analog Watch for women ,womens watch ,watch ",NULL,0,10.00,10,2023-03-07 05:41:55.744783+05:45,30,1
+Men's Watch,round_silver_watch_with_brown_band.jpg,"fossils, watch",watch,"Round Silver Watch with Brown Band, analog watch ",NULL,0,11.00,10,2023-03-07 05:46:43.200348+05:45,31,1
+Men's Watch,round_silver_watch_with_pink_band.jpg,"fossils, watch",watch,"Round Silver watch with pink band, watch ,analog watch ",NULL,0,8.00,3,2023-03-07 05:48:19.414472+05:45,32,1
+Men's Watch,round_silvr_watch_with_black_strap.jpg,fossils,watch,"Round silver watch with black strap, watch",4,1,13.00,10,2023-03-07 05:53:00.147349+05:45,33,1
+Watch,round_white_watch_with_white_band.jpg,"fossils, watch",watch,"Round white watch with white band, watch",NULL,0,9.00,8,2023-03-07 05:56:47.508282+05:45,34,1
+Watch,silver_aluminium_case_apple_watch.jpg,Apple,watch,"Silver Aluminum case apple watch, Apple, Watch",NULL,0,10.00,4,2023-03-07 05:59:10.943829+05:45,35,1
+Men's Watch,silver_colored_analog_watch.jpg,"fossils, watch",watch,"Silver Colored Analog Watch for men, mens watch ",NULL,0,7.00,10,2023-03-07 06:05:30.53822+05:45,36,1
+Men's Watch,silver_gold_watch.jpg,"fossils, watch",watch,"silver gold watch for men, mens wears , analog watch",NULL,0,10.00,10,2023-03-07 06:07:30.359647+05:45,37,1
+Men's Watch,silver_watch.jpg,"fossils, watch",watch,"silver watch for men , analog watch , mens watch",NULL,0,10.00,6,2023-03-07 06:09:00.817382+05:45,38,1
+Men's Watch,silver_watch_analog.jpg,"fossils, watch",watch,"Silver Watch Analog for men, analog watch",NULL,0,8.00,8,2023-03-07 06:11:23.935293+05:45,39,1
+Headphone ,sony_black_headphone.jpg, Sony,Headphones,"Sony Black Headphone for music lover , electronics , headphone",NULL,0,6.00,8,2023-03-07 06:13:34.15502+05:45,40,1
+ Headphone ,sony_wireless_headphone.jpg,Sony,Headphones,"Sony wireless Headphone for music lover , electronics ,headphone",NULL,0,11.00,2,2023-03-07 06:23:46.585753+05:45,41,1
+Men's Shoes,white_adidas_low_top_sneaker.jpg,Addidas,shoes,"White Adidas Low Top Sneaker for men , shoes , mens shoes, mens footwears",NULL,0,15.00,5,2023-03-07 06:27:33.72409+05:45,42,1
+Men's Shoes,white_and_black_nike_air_max_90.jpg,Nike,shoes,"White and Black Nike Air max 90 for men, nike , mens shoes , mens footwears, shoes",NULL,0,22.00,5,2023-03-07 08:17:02.985597+05:45,43,1
+Ceramic Vase,white_and_blue_ceramic_vase.jpg,No Brand ,clay,"White and Blue Ceramic Vase for Interior Design of Room, ceramic pot , pot",NULL,0,5.00,8,2023-03-07 08:18:50.844877+05:45,44,1
+Cup ,white_and_brown_cup.jpg,pot,clay,"White and Brown Cup for Interior Design of Room, ceramic pot ",NULL,0,5.00,6,2023-03-07 08:21:29.411465+05:45,45,1
+Men's Shoes,white_and_orange_athletic_shoes.jpg,Nike,shoes,"White and Orange Athletic Shoes for MEN, mens shoes , mens footwears",NULL,0,13.00,5,2023-03-07 08:22:53.51972+05:45,46,1
+Men's Shoes,white_and_red_athletic_nike_shoes.jpg,Nike,shoes,"White and Red Athletic Nike Shoes for MEN, mens shoes , mens footwears",NULL,0,7.00,3,2023-03-07 08:25:39.964793+05:45,47,1
+Earphone,white_earphone.jpg,Boat,electronics,"White Earphone for Music Lovers, earphone , electronics",NULL,0,6.00,3,2023-03-07 08:27:05.850814+05:45,48,1
+Hoodie and Paint ,white_hoodie_and_paint_set.jpg,Huba,clothes,"White Hoodie and Paint Set for MEN, paint , hoodies, mens wears , ",NULL,0,25.00,4,2023-03-07 08:30:07.825936+05:45,49,1
+T-shirt,white_long_sleeves_tshirt.jpg,Huba,clothes,"White Long Sleeves t-shirt for MEN, t-shirt , mens wears",NULL,0,10.00,6,2023-03-07 08:38:22.4157+05:45,50,1
+Alarm Clock,white_mini_bell_alram_clock.jpg,fossils,Clock ,"White mini Bell Alarm Clock for Sleepy Heads, alram clock , clock",NULL,0,6.00,6,2023-03-07 08:40:01.784552+05:45,51,1
+Men's Shoes,white_nike_running_shoes.jpg,Nike,shoes,"White Nike Running Shoe for MEN, mens shoes ,mens footwears,",NULL,0,8.00,5,2023-03-07 08:41:38.676487+05:45,52,1
+PS-4 Console,white_ps4_console.jpg,Logitech,electronics,"White PS-4 Console for Gamers,electronics, gagets",NULL,0,5.00,6,2023-03-07 08:43:07.997077+05:45,53,1
+Hoodie,white_pull_over_hoodie.jpg,Huba,hoodie,"White Pull Over Hoodie for MEN, hoodie, mens wears",NULL,0,6.00,7,2023-03-07 08:44:42.095612+05:45,54,1
+Wall Clock,white_wall_clock.jpg,fossils,Clock ,"White Wall Clock for interior design of house, clock ",NULL,0,5.00,5,2023-03-07 08:46:15.957427+05:45,55,1
+Headphones,wired_black_gaming_headphones.jpg,Logitech,electronics,"Wired Black Gaming Headphones for Gamers out Here,electronics, gagets, headphone",NULL,0,17.00,8,2023-03-07 08:47:54.442695+05:45,56,1
+Headphone,wired_silver_and_brown_headphone.jpg,Boat,electronics,"Wired Silver and Brown Headphone for music lovers,headphones ,electronics",NULL,0,7.00,5,2023-03-07 08:49:45.612455+05:45,57,1
+Headphone,wireless_headphone.jpg,Boat,electronics,"Wireless Bluetooth  Headphone ,electronics, headphones",NULL,0,5.00,5,2023-03-07 08:51:13.669338+05:45,58,1
+Women's shoes,women_brown_leather_peep_toe_heeled_shoes.jpg,caliber,shoes," Brown Leather peep Toe Heeled Shoes for WOMEN, womens footwear , shoes",NULL,0,23.00,4,2023-03-07 08:52:40.65257+05:45,59,1
+Women's shoes,women_white_and_silver_peep_toe_pumps.jpg,No Brand ,Sample Category," White and Silver peep toe Pumps for women , womens footwears",NULL,0,4.00,5,2023-03-07 08:54:29.784242+05:45,60,1
+Digital Clock,wooden_brown_digital_clock.jpg,"fossils, watch",watch,"Wooden Brown Digital Clock for sleepy head, digital clock ",NULL,0,5.00,7,2023-03-07 08:56:35.476266+05:45,61,1
+Hoodie,yellow_hoodie.jpg,No Brand ,hoodie,"Yellow Hoodie for MEN, hoodie , mens wears",NULL,0,10.00,5,2023-03-07 08:59:02.024775+05:45,62,1
+Clock,yellow_mini_alram_clock.jpg,Boat,electronics,"Yellow Mini Alarm Clock, clock , electronics ",NULL,0,8.00,6,2023-03-07 09:04:21.133464+05:45,63,1
+Hoodie,yellow_pullover_hoodie.jpg,Huba,hoodie,"Yellow Pullover Hoodie for MEN, hoodie , mens wears ",NULL,0,10.00,7,2023-03-07 09:06:13.025567+05:45,64,1
+Men's Shoes,yellow_vans_shoes.jpg,vans,shoes,"Yellow Vans Shoes for for MEN and WOMEN, shoes , mens footwears , womens footwears",NULL,0,8.00,3,2023-03-07 09:08:25.644737+05:45,65,1
+Men's Watch,analog_black_watch.jpg,"fossils, watch",watch,"Analog Black Watch for Classic Men, watch , mens watch ",NULL,0,6.00,5,2023-03-07 09:09:59.094239+05:45,66,1
+Apple Watch,apple_watch.jpg,Apple,watch,"Unisex Apple Smart Watch, apple , watch ",NULL,0,7.00,10,2023-03-07 09:14:19.050592+05:45,67,1
+Alarm Clock,black_alram_clock.jpg,"fossils, watch",Clock ,"Black Alarm Clock for Sleepy Head, alram clock",NULL,0,8.00,5,2023-03-07 09:16:03.370098+05:45,68,1
+Digital Clock,black_and_brown_digital_clock.jpg,fossils,Clock ,"Black and Brown wooden color Digital Clock , clock ,alram clock",NULL,0,10.00,12,2023-03-07 09:17:17.487075+05:45,69,1
+Digital Clock,black_and_silver_digital_clock.jpg,Casio,watch,"Black and Silver Digital Clock for Interior Design, clock ,digital clock ",NULL,0,10.00,5,2023-03-07 09:19:25.248868+05:45,70,1
+DSLR Camera,black_cannon_dslr_camera.jpg,canon,camera,"Black Color Cannon DSLR Camera for Photography, camera ",NULL,0,5.00,6,2023-03-07 09:21:32.533024+05:45,71,1
+Men's Shoes,black_converse_shoes.jpg,converse,shoes,"Black Converse Shoes for both MEN and WOMEN, shoes , mens wears , womens wears",NULL,0,7.00,5,2023-03-07 09:23:14.729377+05:45,72,1
+Sunglasses,black_frame_eyeglasses_Apybuq3.jpg,newmew,sunglasses,"Black Frame UV-ray Protection  Eyeglasses ,sunglasses",NULL,0,6.00,5,2023-03-07 09:24:30.277356+05:45,73,1
+Hoodie ,black_hoodie_with_white_print.jpg,Huba,hoodie,"Black Hoodie Having  White Print in Sleeves, hoodie ,mens wears",NULL,0,5.00,5,2023-03-07 09:27:16.498702+05:45,74,1
+Leather Bag,black_leather_bag.jpg,Rhino Leathers,Bag,"Black Leather handcarry Bag, bag ,casual",NULL,0,5.00,9,2023-03-07 09:28:59.879506+05:45,75,1
+Women's shoes,black_leather_boots_for_women.jpg,timberland,shoes,"Black Leather Boots for Women for Winter, boots , shoes , womens shoes ",NULL,0,4.00,5,2023-03-07 09:31:32.624932+05:45,76,1
+women's jackets,black_leather_jacket_for_women.jpg,Rhino Leathers,jacket,"Black Leather Jacket for Women , jackets womens wears",NULL,0,8.00,5,2023-03-07 09:33:00.935865+05:45,77,1
+Men's jacket,black_leather_zip_up_jacket.jpg,Rhino Leathers,jacket,"Black Leather Zip up Jacket for MEN, jacket , mens wears ",5,1,7.00,7,2023-03-07 10:18:05.969272+05:45,78,1
+Men's jacket,black_zip_up_jackets.jpg,Rhino Leathers,jacket,"Black Zip up Jackets for MEN, mens wears , jackets",NULL,0,7.00,5,2023-03-07 10:19:37.748042+05:45,79,1
+Men's Watch,blacks_analog_watch.jpg,Casio,watch,"Blacks Analog Watch for classic MEN, casio , mens watch , watch ,classic mens wears",NULL,0,7.00,4,2023-03-07 10:21:46.98518+05:45,80,1
+Jacket,blue_danim_jacket.jpg,DEMIN,jacket,"Blue Denim Jacket for MEN, jackets , mens wears",NULL,0,4.00,2,2023-03-07 10:23:07.27089+05:45,81,1
+Men's Shoes,brown_and_white_nike_air_max.jpg,Nike,shoes,"Brown and White Nike Air Max for MEN, shoes , mens footwears, nike",NULL,0,7.00,5,2023-03-07 10:24:54.469085+05:45,82,1
+Leather Bag,brown_hang_carry_leather_bag.jpg,Rhino Leathers,Bag,"Brown Carry Leather Bag for classic MEN, bag , leather bag , classic mens",NULL,0,7.00,5,2023-03-07 10:29:17.404891+05:45,83,1
+Men's Shoes,black_white_red_high_top_sneeker.jpg,Nike,shoes,"Black White Red High Top Sneekers, shoes ,sneekers ,nike",NULL,0,7.00,5,2023-03-07 10:32:10.306655+05:45,84,1
+Hoodie,brown_hoodie.jpg,Huba,hoodie,"Brown Hoodie for MEN, hoodie, mens wears ,huba",NULL,0,7.00,6,2023-03-07 10:34:49.806792+05:45,85,1
+Men's jacket,brown_jacket.jpg,Rhino Leathers,jacket,"Brown Jacket for MEN, rhino leathers , jackets , mens wears ",NULL,0,5.00,4,2023-03-07 10:36:27.978926+05:45,86,1
+Men's Jeans,black_jeans_for_men.jpg,Poison Jeans,paints,"Black Jeans for MEN, jeans, denim, mens wears ,pant",NULL,0,10.00,-2,2023-03-10 11:18:21.649409+05:45,87,1
+Ceramic Bowl,ceramic_bowl.jpg,No Brand ,ceramic,Ceramic Bowl for home decorations,NULL,0,9.00,5,2023-03-12 14:00:07.071046+05:45,88,1
+Rose Artificial Plant ,vase.jpeg,pot,ceramic,Bengal Blooms Rose Artificial Plant  with Pot,NULL,0,8.00,7,2023-03-12 20:55:49.406073+05:45,89,1
+Cargo Paint,cargo_paints.jpeg,paint,paints,Madcaps C38GR30 Men's Cargos,NULL,0,8.00,7,2023-03-12 21:14:47.494996+05:45,90,1
+Dumbell for pet,dumbel.jpeg,dumbell,workout,"Kennel Rubber Dum-bell With Bell - Small Rubber Rubber Toy For Dog	",NULL,0,6.00,5,2023-03-12 21:17:44.196748+05:45,91,1
+Shorts,legis.jpeg,fit,workout,Solid Women's Cycling Shorts,NULL,0,6.00,5,2023-03-12 21:24:45.93465+05:45,92,1
+Sofa,sofa.jpeg,sofas,furniture,Fab Home Decor Fabric Double Sofa Bed,NULL,0,10.00,5,2023-03-12 21:29:30.085946+05:45,93,1
+Women jutti,shoess.jpeg,timberland,shoes," Women's Footwear ,AW Bellies",NULL,0,4.00,5,2023-03-12 21:34:02.6283+05:45,94,1
+Women juttii,shoesss.jpeg,timberland,shoes,"Casuals Women's Footwear, Ballerinas",NULL,0,4.00,5,2023-03-12 21:38:58.105293+05:45,95,1
+Women juttiii,shoe.jpeg,timberland,shoes,"Ladela Bellies ,Women's Footwear,Casual",NULL,0,6.00,6,2023-03-12 21:41:40.170243+05:45,96,1
+Men's Watch,watch.avif,fossils,watch,"Black and Silver Chorograph watch ,men's wears ",NULL,0,6.00,5,2023-03-12 21:48:27.278817+05:45,97,1
+Men's Watch,fossil_watch_with_black_band.jpg,fossils,watch,"fossils watch black band, men's wear, casual wears",NULL,0,5.00,6,2023-03-12 21:51:53.2564+05:45,98,1
+Sunglasses,brown_sunglasses.jpg,newmew,sunglasses,"women's  sunglasses, Brown sunglasses, women's wears",NULL,0,7.00,6,2023-03-12 21:53:29.026852+05:45,99,1
+Leather shoes,brown_leather_loafers_shoes.jpg,caliber,shoes,"Brown Leathers lofar shoes ,mens wear",NULL,0,5.00,5,2023-03-12 21:55:11.955809+05:45,100,1
+Men's Shoes,brown_leathers_shoes.jpg,caliber,shoes,"Caliber brown leather boots , mens wears, shoes ",NULL,0,7.00,5,2023-03-12 21:56:49.17163+05:45,101,1
+Nike Shoes,brown_nike_sneakers.jpg,Nike,shoes,"Brown Nike sneakers , men's footwears ",NULL,0,6.00,6,2023-03-12 21:58:09.478543+05:45,102,1
+Ceramic Pot,ceramic_vase.jpg,pot,ceramic pot,"White Ceramic Pot , Home Decor",NULL,0,5.00,5,2023-03-12 21:59:28.813097+05:45,103,1
+Sunglasses,gold_framed_sunglasses.jpg,newmew,sunglasses,"Gold Framed Sunglasses , sunglasses ",NULL,0,5.00,5,2023-03-12 22:01:38.512686+05:45,104,1
+Men's Watch,fossil_analog_watch.jpg,fossils,watch,"Fossils analog watch with brown band , mens wears",NULL,0,5.00,5,2023-03-12 22:03:10.431325+05:45,105,1
+Nike Shoes,blue_black_white_nike_running_shoes.jpg,Nike,shoes,"Blue and white Nike shoes, mens running shoes,mens wears",NULL,0,5.00,5,2023-03-12 22:04:24.946118+05:45,106,1
+Men's Watch,analog_black_watch_JMVd8fO.jpg,fossils,watch,"Fossils analog watch  , men's wears, watch",NULL,0,7.00,5,2023-03-12 22:05:43.132915+05:45,107,1
+Men's Watch,gold_and_blue_analog_watch.jpg,"fossils, watch",watch,"Golden Blue analog watch , men's watch, watch",NULL,0,5.00,9,2023-03-12 22:06:57.840748+05:45,108,1
+Men's Watch,round_grey_analog_watch_with_brown_band_qnqUWVM.jpg,"fossils, watch",watch,"Silver analog clock with brown band, mens watch ,mens wears",NULL,0,7.00,5,2023-03-12 22:08:23.834623+05:45,109,1
+Men's Watch,silver_gold_watch_vhgsVoV.jpg,fossils,watch,"Silver and Gold analog watch, mens watch , mens wears",NULL,0,5.00,3,2023-03-12 22:11:07.164415+05:45,110,1
+Men's Watch,silver_watch_analog_AUUGKj3.jpg,"fossils, watch",watch,"Silver analog watch, mens watch , mens wears",NULL,0,8.00,5,2023-03-12 22:12:29.039494+05:45,111,1
+Earpode,black_earbode.jpg,Boat,Headphones,"Black wireless Earpod , headphone , electronics",NULL,0,8.00,7,2023-03-13 08:32:53.436286+05:45,112,1
+Mobile Phone,black_samsung_galaxy_s6_edge.jpg,samsung,electronics,"Samsung Galaxy s8 phone , phone , mobile,electronics ,gagets ",NULL,0,4.00,7,2023-03-13 08:34:36.663919+05:45,113,1
+Clock,black_and_brown_digital_clock_chB99dd.jpg,fossils,Clock ,"wooden framed digital clock , clock , alram clock ",NULL,0,6.00,5,2023-03-13 08:36:08.634471+05:45,114,1
+Men's Watch,golden_analog_watch_with_black_band.jpg,"fossils, watch",watch,"Analog watch with black band, watch , men's watch",NULL,0,5.00,5,2023-03-13 08:37:19.735104+05:45,115,1
+Women's shoes,glitter_white_pointed_toe_pumps.jpg,caliber,shoes,"Women's heels , silver glitter color , women's wears , heels , shoes ",NULL,0,7.00,6,2023-03-13 08:38:54.309307+05:45,116,1
+Men's Watch,round_grey_analog_watch_with_brown_band_P8jcNoR.jpg,"fossils, watch",watch,"analog watch , men's watch , ",NULL,0,7.00,5,2023-03-13 08:40:20.032203+05:45,117,1
+Clock,yellow_mini_alram_clock_sf9Drd6.jpg,fossils,watch,"Mini alram clock for sleepy head  , clock  ",NULL,0,6.00,7,2023-03-13 08:41:54.89605+05:45,118,1
+Women's Shirt,s1.jpg,New Season,Men's Shirt,"Women's shirt , Women's wears, white shirts , new season",NULL,0,2.00,5,2023-03-13 08:43:57.387339+05:45,119,1
+Men's Shirt,s2.jpg,New Season,Men's Shirt,"Men's shirt , black shirt , new season shirt , men's wears, men's shirts",NULL,0,5.00,5,2023-03-13 08:56:26.000195+05:45,120,1
+Men's Shirt,s3.jpg,New Season,Men's Shirt,"men's shirt , blue shirt , new season shirt , men's wears ",NULL,0,6.00,2,2023-03-13 08:58:09.060134+05:45,121,1
+Men's Shirt,s4.jpg,New Season,Men's Shirt,"men's shirt , white shirts  , men's wears  ,new season shirts",NULL,0,3.00,5,2023-03-13 08:59:37.795446+05:45,122,1
+Men's Shirt,s5.jpg,New Season,Men's Shirt,"men's shirts,  new season shirt , men's wears, shirt",NULL,0,4.00,6,2023-03-13 09:03:23.712795+05:45,123,1
+Men's Shirt,s6.jpg,New Season,Men's Shirt,"men's shirt , shirt with tie , news season shirts , men's wears , shirts",NULL,0,5.00,5,2023-03-13 09:05:28.497476+05:45,124,1
+Men's Shirt,s7.jpg,New Season,Men's Shirt,"men's  wears , shirt , new season shirt ,",NULL,0,8.00,6,2023-03-13 09:07:30.329861+05:45,125,1
+Men's Shirt,s8.jpg,New Season,Men's Shirt,"men's shirts, shirts , new season shirt , men's wears",NULL,0,6.00,6,2023-03-13 09:09:20.65855+05:45,126,1
+Men's Shirt,s9.jpg,New Season,Men's Shirt,"men's shirt, new season shirt, men's wears, shirts",NULL,0,6.00,8,2023-03-13 09:10:41.903694+05:45,127,1
+Men's Shirt,s10.jpg,New Season,Men's Shirt,"Men's shirt ,shirt , new season shirts , men's wears",NULL,0,4.00,5,2023-03-13 09:12:20.210796+05:45,128,1
+Men's Shirt,s11.jpg,New Season,Men's Shirt,"Men's shirt , men's wears , shirt , new season shirts",NULL,0,4.00,4,2023-03-13 09:13:37.812012+05:45,129,1
+Men's Shirt,s12.jpg,New Season,Men's Shirt,"shirt, men's shirt  , new season's shirts, men's wears",NULL,0,5.00,5,2023-03-13 09:15:00.255986+05:45,130,1
+Men's Shirt,s13.jpg,New Season,Men's Shirt,"shirt, men's shirt  , new season's shirts,  men's wears",NULL,0,6.00,5,2023-03-13 09:16:46.992988+05:45,131,1
+Men's Watch,w14_1.jpg,"fossils, watch",watch,"men's watch , fossils watch , watch ",NULL,0,4.00,5,2023-03-13 09:17:48.092748+05:45,132,1
+Shades,shades1.jpg,newmew,sunglasses,"shades, sunglasses ,  eyewear, UV-ray protection, fashion, luxury",NULL,0,5.00,3,2023-03-13 10:24:19.956632+05:45,133,1
+Shades,shades2.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.00,6,2023-03-13 10:28:09.498892+05:45,134,1
+Shades,shades3.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,4.00,5,2023-03-13 10:29:13.377112+05:45,135,1
+Shades,shades9.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.00,5,2023-03-13 10:29:59.069369+05:45,136,1
+Shades,shades5.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.00,3,2023-03-13 10:30:44.419182+05:45,137,1
+Shades,shades9_nrWEBYE.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,4.00,4,2023-03-13 10:31:27.664247+05:45,138,1
+Shades,shades14.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,5.00,4,2023-03-13 10:32:19.20992+05:45,139,1
+Shades,shades16.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.00,5,2023-03-13 10:33:10.039722+05:45,140,1
+Shades,shades21.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.00,5,2023-03-13 10:33:50.325068+05:45,141,1
+Shades,shades16_IaYTR6R.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,2.00,6,2023-03-13 10:34:29.201334+05:45,142,1
+Shades,shades20.jpg,New Season,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.00,5,2023-03-13 10:35:11.414593+05:45,143,1
+Shades,shades23.jpg,newmew,sunglasses,"shades, sunglasses, eyewear, UV-ray protection, fashion, luxury",NULL,0,3.00,3,2023-03-13 10:35:54.691769+05:45,144,1
+Men's Watch,w14_7.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.00,5,2023-03-13 10:36:48.558062+05:45,145,1
+Men's Watch,w14_18.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,4.00,2,2023-03-13 10:37:44.968184+05:45,146,1
+Men's Watch,w14_14.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.00,2,2023-03-13 10:38:41.226878+05:45,147,1
+Men's Watch,w14_14_XNp8KbT.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.00,2,2023-03-13 10:39:29.563304+05:45,148,1
+Men's Watch,w14_17.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,2.00,5,2023-03-13 10:40:16.051788+05:45,149,1
+Men's Watch,w14_12.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.00,5,2023-03-13 10:41:02.738222+05:45,150,1
+Men's Watch,w14_16.jpg,"fossils, watch",watch,"wristwatch, Men's watch set, fossils watch, Luxury watch ",NULL,0,3.00,5,2023-03-13 10:41:58.618604+05:45,151,1
+Cap,c1.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,5.00,3,2023-03-13 10:50:19.266961+05:45,152,1
+Cap,c2.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,5.00,5,2023-03-13 10:51:53.14819+05:45,153,1
+Cap,c3.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,6.00,6,2023-03-13 10:52:36.875352+05:45,154,1
+Cap,c4.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,5.00,6,2023-03-13 10:53:17.807063+05:45,155,1
+Cap,c5.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,6.00,5,2023-03-13 10:54:05.816843+05:45,156,1
+Cap,c6.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,3.00,3,2023-03-13 10:54:43.613409+05:45,157,1
+Cap,c3_wmVJSum.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.00,4,2023-03-13 10:55:24.873149+05:45,158,1
+Cap,c6_Cl6lbcz.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.00,5,2023-03-13 10:56:11.083265+05:45,159,1
+Cap,c7.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.00,2,2023-03-13 10:56:48.260874+05:45,160,1
+Cap,c8.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.00,3,2023-03-13 10:57:41.515194+05:45,161,1
+Cap,c9.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.00,4,2023-03-13 10:58:15.744498+05:45,162,1
+Cap,c10.jpg,flexfit,Headwear,"Headwear, Cap, Panel Caps, Sports Hats, Cotton Baseball Caps",NULL,0,4.00,2,2023-03-13 10:58:52.443169+05:45,163,1
+Jewelry,a1.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.00,5,2023-03-13 11:02:55.546076+05:45,164,1
+Jewelry,a2.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,13.00,5,2023-03-13 11:13:31.996138+05:45,165,1
+Jewelry,a3.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,14.00,5,2023-03-13 11:14:07.17356+05:45,166,1
+Jewelry,a4.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.00,5,2023-03-13 11:14:40.059625+05:45,167,1
+Jewelry,a5.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.00,5,2023-03-13 11:15:11.749561+05:45,168,1
+Jewelry,a6.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,5.00,5,2023-03-13 11:15:45.442552+05:45,169,1
+Jewelry,a8.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,4.00,4,2023-03-13 11:16:15.181925+05:45,170,1
+Jewelry,a9.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,3.00,4,2023-03-13 11:16:55.806024+05:45,171,1
+Jewelry,a10.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,6.00,3,2023-03-13 11:18:37.034685+05:45,172,1
+Jewelry,a11.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,9.00,4,2023-03-13 11:19:10.320852+05:45,173,1
+Jewelry,a12.jpg,Harry Winston,accessories,"Jewelry, Fashion Jewelry, Ladies' fashion,  Luxury Women's accessories",NULL,0,7.00,6,2023-03-13 11:19:45.943665+05:45,174,1
+I-phone 6,aa1_iphone6.jpg,Apple,smartphones,"smartphone, apple, i-phone, electronics",NULL,0,6.00,6,2023-03-13 11:29:06.598692+05:45,175,1
+I-phone x,aa2_iphone_x.jpg,Apple,smartphones,"smartphone, apple, i-phone, electronics",NULL,0,8.00,4,2023-03-13 11:31:55.736596+05:45,176,1
+I-phone 5,aa3_iphone5.jpg,Apple,smartphones,"smartphone, apple, i-phone, electronics",NULL,0,5.00,7,2023-03-13 11:32:40.260092+05:45,177,1
+I-phone x's,aa4_iphone_xs.jpg,Apple,smartphones,"smartphone, apple, i-phone, electronics",NULL,0,12.00,6,2023-03-13 11:33:27.254359+05:45,178,1
+I-phone 11,aa5_iphone_11.jpg,Apple,smartphones,"smartphone, apple, i-phone, electronics",NULL,0,5.00,6,2023-03-13 11:34:15.097286+05:45,179,1
+Motorcycle's Helmet,l1.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,7.00,6,2023-03-13 11:41:16.992195+05:45,180,1
+Motorcycle's Helmet,l2.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,4.00,3,2023-03-13 11:42:40.47139+05:45,181,1
+Motorcycle's Helmet,l3.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,4.00,5,2023-03-13 11:43:30.44475+05:45,182,1
+Motorcycle's Helmet,l4.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,3.00,1,2023-03-13 11:44:11.323798+05:45,183,1
+Motorcycle's Helmet,l5.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,3.00,4,2023-03-13 11:44:46.839001+05:45,184,1
+Motorcycle's Helmet,l6.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,3.00,4,2023-03-13 11:45:23.01163+05:45,185,1
+Motorcycle's Helmet,l7.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,2.00,4,2023-03-13 11:46:06.343965+05:45,186,1
+Motorcycle's Helmet,l8.jpg,LS2,Motorcycle parts,"Helmet, Motorcycle helmet, Carbon Fiber Motorcycle Helmet, Motorcycle parts, and accessories",NULL,0,5.00,5,2023-03-13 11:46:49.189015+05:45,187,1
+winter Hat's,h1.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,6.00,4,2023-03-13 11:52:56.370504+05:45,188,1
+winter Hat's,h2.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,5.00,6,2023-03-13 11:54:11.860609+05:45,189,1
+winter Hat's,h3.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,3.00,5,2023-03-13 11:55:19.655997+05:45,190,1
+winter Hat's,h4.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,4.00,5,2023-03-13 11:56:31.427669+05:45,191,1
+winter Hat's,h5.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,5.00,5,2023-03-13 11:57:15.906192+05:45,192,1
+winter Hat's,h6.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,5.00,5,2023-03-13 11:58:33.480708+05:45,193,1
+winter Hat's,h3_55Eny8M.jpg,Huba,winter accessories,"Winter Hats, Hats wool beanie with soft fleece line ",NULL,0,2.00,5,2023-03-13 11:59:21.273763+05:45,194,1
